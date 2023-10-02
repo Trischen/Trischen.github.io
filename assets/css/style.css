@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #fffb00;
+  color: #e08600;
 }
 
 /* main blockqoute */
@@ -237,7 +237,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(255, 204, 0);
+  color: rgb(255, 170, 0);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
