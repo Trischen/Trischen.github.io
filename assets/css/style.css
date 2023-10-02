@@ -522,6 +522,9 @@ a.hoverline:hover {
   margin-bottom: 0;
 }
 
+#travel
+.material-icons.orange600 { color: #ffa200; }
+
 #contact a:not(.btn-floating) {
   bottom: 6px;
   left: 20px;
